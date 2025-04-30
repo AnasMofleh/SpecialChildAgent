@@ -25,7 +25,6 @@ Mitt Speciella Barn – AI Assistant is a conversational agent that helps users 
 - OpenAI API (`text-embedding-3-small`, OpenAIChatCompletion)
 - Azure Inference SDK (`gpt-4o-mini`)
 - [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel) AI Framework. (ChatHistory, FunctionCall)
--  
 - HTML rendering for interactive output
 
 ## 📦 Installation & Setup
