@@ -1,6 +1,6 @@
 # 🤖 Mitt Speciella Barn – AI Assistant
 
-An AI-powered assistant that helps users find relevant information and resources from the Swedish website **[mittspeciellabarn.se](https://mittspeciellabarn.se/)**, dedicated to supporting families with children who have disabilities.
+Mitt Speciella Barn – AI Assistant is a conversational agent that helps users find information and resources related to children with disabilities on the **[mittspeciellabarn.se](https://mittspeciellabarn.se/)** website. It uses OpenAI models to answer questions, retrieve relevant content, and guide users through services, financial aid, and activities.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API%20v4-blue.svg)
