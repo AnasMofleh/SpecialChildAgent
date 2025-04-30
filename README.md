@@ -39,18 +39,13 @@ An AI-powered assistant that helps users find relevant information and resources
     cd mitt-speciella-barn-assistant
     ```
 
-2. **Install Dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Set Up Your OpenAI API Key**
+2. **Set Up Your OpenAI API Key**
     - Set the `OPENAI_API_KEY` environment variable:
     ```bash
     export OPENAI_API_KEY="your-openai-api-key"
     ```
 
-4. **Run the Jupyter Notebook**
+3. **Run the Jupyter Notebook**
     - Start a Jupyter notebook server:
     ```bash
     jupyter notebook
