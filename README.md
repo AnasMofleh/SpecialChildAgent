@@ -4,7 +4,6 @@ Mitt Speciella Barn – AI Assistant is a conversational agent that helps users 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API%20v4-blue.svg)
-![LangChain](https://img.shields.io/badge/LangChain-Agents-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🔍 Features
