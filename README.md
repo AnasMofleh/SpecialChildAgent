@@ -10,18 +10,23 @@ Mitt Speciella Barn – AI Assistant is a conversational agent that helps users 
 
 - 💬 **Natural Language Queries**: Ask questions in Swedish, Arabic, English, and more.
 - 🧠 **Semantic Search**: Uses OpenAI embeddings and cosine similarity to retrieve the most relevant content.
-- 🌐 **Web Scraper Plugin**: Custom plugin scrapes and indexes website pages.
+- 🌐 **Web Scraper Plugin**: Custom plugin scraper class that scrape and indexes website pages up to n-depth.
 - 🔧 **Function Calling with OpenAI**: Dynamically routes user queries to search functions via streaming.
 - 📊 **Interactive Output**: Displays structured HTML responses including function calls and results.
 
+## 🔜 Upcoming Features
+- **Audio and image input**: Children with speciall needs might need different type of input query to use th agent.
+- **Audio and image output**: The Agen should be able to talk or show the result to serve the users in the best optimal way.
+- **Daily refresh of the index**: Using github Actions refresh the data in the .csv file in order to have up to date data.
+
 ## 🛠️ Tech Stack
 
-- OpenAI API (`gpt-4`, `text-embedding-3-small`)
-- LangChain Agents (`ChatCompletionAgent`)
-- Async Python (`asyncio`)
-- Pandas, NumPy
+- Python (Pandas, NumPy, etc)
+- OpenAI API (`text-embedding-3-small`, OpenAIChatCompletion)
+- Azure Inference SDK (`gpt-4o-mini`)
+- [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel) AI Framework. (ChatHistory, FunctionCall)
+-  
 - HTML rendering for interactive output
-- Custom plugin architecture for modular extension
 
 ## 📦 Installation & Setup
 
