@@ -40,7 +40,7 @@ Mitt Speciella Barn – AI Assistant is a conversational agent that helps users 
     ```
 
 2. **Set Up Your OpenAI API Key**
-    - Set the `OPENAI_API_KEY` environment variable:
+    - Add the `OPENAI_API_KEY` to the notebook manually or Set the environment variable:
     ```bash
     export OPENAI_API_KEY="your-openai-api-key"
     ```
